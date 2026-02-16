@@ -6,4 +6,3 @@ def validate_kitchen_size(width, height):
     return True, "Размеры корректны"
 if __name__ == "__main__":
     print(validate_kitchen_size(250, 220)
-print('ПАРОЛЬ: admin123')
